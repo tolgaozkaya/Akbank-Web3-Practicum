@@ -28,7 +28,7 @@ public class Main {
         busManager.payBridgeToll(new Vehicle(312, "2387289", "06 TA 4533", "Tolga", "Ozkaya", LocalDateTime.of(2022, Month.NOVEMBER, 3, 4, 5, 45), 645));
         busManager.payBridgeToll(new Vehicle(314, "2390284", "06 YZ 6454", "Tolga", "Ozkaya", LocalDateTime.of(2022, Month.NOVEMBER, 3, 4, 5, 45), 960));
 
-        // Yonetim(Management) sinifindan gecen arac listesini alip yazdirdim.
+
         Management management = new Management();
         ArrayList<Vehicle> vehicleArrayList = management.getAllVehicles(baseVehicleManagers);
 
@@ -36,7 +36,6 @@ public class Main {
             System.out.println(vehicleArrayList.get(i).getLicensePlate());
         }
 
-        // Yonetim(Management) sinifindan toplam gunluk kazanci hesaplatip yazdirdim.
         management.TotalBalance(baseVehicleManagers);
 
     }
