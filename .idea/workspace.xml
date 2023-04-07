@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5412918e-bf39-434c-a8cd-e3d9e93be0ec" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Abstract/BaseVehicleManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Concrete/BusManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Concrete/CarManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Concrete/MinibusManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Entities/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Entities/Bus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Entities/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Entities/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Entities/Minibus.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Entities/Minibus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Entities/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Entities/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HGSProject/src/Management.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2O78S8zTm7FSc5bX4MakTpJAV5K" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/tolgaozkaya/Documents/GitHub/HGS-Project&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5412918e-bf39-434c-a8cd-e3d9e93be0ec" name="Changes" comment="" />
+      <created>1680900258236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680900258236</updated>
+      <workItem from="1680900259844" duration="56000" />
+      <workItem from="1680900343644" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

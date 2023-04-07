@@ -10,9 +10,11 @@ public class Vehicle {
     private String vehicleOwnerLastName;
     private LocalDateTime date;
     private int balance;
+    private String vehicleType;
+    int payBridgeToll;
 
-
-    public Vehicle(int id, String HGS_number, String licensePlate, String vehicleOwnerFirstName, String vehicleOwnerLastName, LocalDateTime date, int balance) {
+    protected Vehicle(int id, String HGS_number, String licensePlate, String vehicleOwnerFirstName,
+            String vehicleOwnerLastName, LocalDateTime date, int balance, String vehicleType,int payBridgeToll) {
         this.id = id;
         this.HGS_number = HGS_number;
         this.vehicleOwnerFirstName = vehicleOwnerFirstName;
@@ -20,8 +22,9 @@ public class Vehicle {
         this.date = date;
         this.balance = balance;
         this.licensePlate = licensePlate;
+        this.vehicleType = vehicleType;
+        this.payBridgeToll= payBridgeToll;
     }
-
 
     public int getId() {
         return id;
@@ -77,5 +80,21 @@ public class Vehicle {
 
     public void setLicensePlate(String licensePlate) {
         this.licensePlate = licensePlate;
+    }
+
+    public String getVehicleType() {
+        return vehicleType;
+    }
+
+    public void setVehicleType(String vehicleType) {
+        this.vehicleType = vehicleType;
+    }
+
+    public int getPayBridgeToll() {
+        return payBridgeToll;
+    }
+
+    public void setPayBridgeToll(int payBridgeToll) {
+        this.payBridgeToll = payBridgeToll;
     }
 }
