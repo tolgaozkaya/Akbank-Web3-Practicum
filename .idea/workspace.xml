@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5412918e-bf39-434c-a8cd-e3d9e93be0ec" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Abstract/BaseVehicleManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Concrete/BusManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Concrete/CarManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Concrete/MinibusManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Entities/Bus.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Entities/Bus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Entities/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Entities/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Entities/Minibus.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Entities/Minibus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Entities/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Entities/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HGSProject/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HGSProject/src/Management.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +40,10 @@
       <updated>1680900258236</updated>
       <workItem from="1680900259844" duration="56000" />
       <workItem from="1680900343644" duration="2000" />
+      <workItem from="1680913961843" duration="7000" />
+      <workItem from="1682073580320" duration="4000" />
+      <workItem from="1683540028867" duration="38000" />
+      <workItem from="1683540184485" duration="61000" />
     </task>
     <servers />
   </component>
